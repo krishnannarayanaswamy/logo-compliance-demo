@@ -10,8 +10,8 @@ An MVC-patterned Python application which works on vectorized image data written
  - Environment variables defined for: `FLASK_ENV`, `FLASK_APP`, ASTRA_DB_APPLICATION_TOKEN`, and `ASTRA_DB_API_ENDPOINT`:
 
 ```
-export ASTRA_DB_APPLICATION_TOKEN=AstraCS:GgsdfSnotrealHqKZw:SDGSDDSG6a36d8526BLAHBLAHBLAHc18d40
-export ASTRA_DB_API_ENDPOINT=https://b9aff773-also-not-real-d3088ea14425-us-east1.apps.astra.datastax.com
+export ASTRA_DB_APPLICATION_TOKEN=AstraCS:xxx
+export ASTRA_DB_API_ENDPOINT=https://xxx.apps.astra.datastax.com
 export FLASK_ENV=development
 export FLASK_APP=logoSearch
 ```
